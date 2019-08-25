@@ -1,0 +1,1 @@
+This repository contains the schematics of the Sinclair ZX81, drawn from the official schematic found in the manual.
